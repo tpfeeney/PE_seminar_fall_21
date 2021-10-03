@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.sty
+.png
+pe_present_cache/
+pe_present_files/
+present_figure/
+simulation/
